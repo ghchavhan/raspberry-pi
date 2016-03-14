@@ -7,4 +7,7 @@ Then edit it as
     netmask 255.0.0.0
     gateway 10.xx.xx.xx
 
-then Contrl+x      Press Y to save the file
+then Contrl+x      Press Y to save the file  
+ and to restart the network services use following command
+ 
+ >> sudo service networking restart
