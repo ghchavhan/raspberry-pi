@@ -28,3 +28,18 @@ sudo nano /etc/network/interfaces
 18.	for software installations
 sudo apt-get install scrot    ;    example for installing scrot software
 sudo apt-get install pistore  ;;   
+
+rm  :remove derectory  
+cat  : conatians of the file
+head  ; displayes begining of the file
+tail  ; displayes end of the file
+sudo  ; run a file as super user
+df  ; displays disk space available
+unzip  ; extracts files from compressed zip file
+man  ; to see manual intro of the file
+find  ; search for a directory
+ping  ; ping command for network search
+nmap  ; netwrok exploration command
+ifconfig eth0  ;  IP information of Ethernet
+ifconfig wlan0  ; IP config information of wireless lan 
+
