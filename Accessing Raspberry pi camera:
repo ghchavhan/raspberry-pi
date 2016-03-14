@@ -1,0 +1,8 @@
+Accessing Raspberry pi camera:
+
+1. shell: raspi-config
+Enable camera , and reboot/ finish.
+
+A. for capturing image: raspistill –o image.jpeg    will capture image and save it as image.jpeg in pi directory 
+
+B. for capturing video: raspivid –d                   for demo capturing video.
