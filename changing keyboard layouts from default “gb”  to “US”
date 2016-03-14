@@ -1,0 +1,7 @@
+changing keyboard layouts from default “gb”  to “US”
+sudo nano /etc/default/keyboard
+
+and change “gb” to “us”
+
+ctrl+O to save and
+ctrl+x  to exit 
